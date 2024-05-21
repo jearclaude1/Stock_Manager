@@ -29,6 +29,7 @@ if (!isset($_SESSION['username'])) {
             <li> <a href="dashboard.php">Product</a></li>
             <li> <a href="stock_in.php">Stock_In</a></li>
             <li> <a href="stock_out.php">Stock_Out</a></li>
+            <li> <a href="report.php">Report</a></li>
         </ul>
     </nav>
   </div>
