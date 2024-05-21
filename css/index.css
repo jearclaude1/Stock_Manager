@@ -41,7 +41,6 @@
     color: white;
     background: green;
 }
-
 .top{
     display: flex;
     justify-content: space-around;
@@ -51,7 +50,6 @@
     color: white;
     align-content: center;
     height: 150px;
-
 }
 .top h1,
 p{
@@ -107,10 +105,7 @@ nav ul li a:hover{
     height:33px;
     width: 20%;
 }
-/* .body_content,input{
-    height:30px;
-    width:40%;
-} */
+
 .body_content,input[type="submit"]{
     height: 35px;
     align-content: center;
