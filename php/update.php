@@ -97,9 +97,6 @@ if (isset($_POST['yes'])) {
 
 }
 ?>
-
-
-
 </body>
 </html>
 
